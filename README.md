@@ -102,8 +102,6 @@ Now with the initial analysis, I design a Flask API based on the queries that we
 
   * Use the peak-to-peak (tmax-tmin) value as the y error bar (yerr).
 
-    ![temperature](Images/temperature.png)
-
 ### Daily Rainfall Average
 
 * Calculate the rainfall per weather station using the previous year's matching dates.
